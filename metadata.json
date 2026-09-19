@@ -1,0 +1,6 @@
+{
+  "name": "Cambridge Chemical Bonding & VSEPR 3D Simulator",
+  "description": "Interactive Cambridge International AS & A Level Chemistry Chemical Bonding, VSEPR Theory, Molecular Shapes, and Formulae Simulator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
